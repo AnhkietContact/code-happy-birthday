@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.birthday-card {
+    text-align: center;
+}
+
+img {
+    width: 200px; /* Tùy chỉnh kích thước ảnh */
+    height: auto;
+    cursor: pointer;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    font-size: 18px;
+    margin-top: 10px;
+}
